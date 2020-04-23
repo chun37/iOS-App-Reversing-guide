@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>/</loc>
+     <lastmod>2020-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+<url>
+     <loc>/iOS-App-Reversing-guidedocs/getting-started/</loc>
+     <lastmod>2020-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+<url>
+     <loc>/iOS-App-Reversing-guidesupport/</loc>
+     <lastmod>2020-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+<url>
+     <loc>/iOS-App-Reversing-guidenews/</loc>
+     <lastmod>2020-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+
+</urlset>
